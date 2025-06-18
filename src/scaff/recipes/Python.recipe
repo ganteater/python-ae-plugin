@@ -1,0 +1,4 @@
+<Recipe name="Python">
+  <Extern class="Python" file="$var{BASEDIR}/script.py" /> 
+  <Extern class="Python">print('Hello World 2!')</Extern> 
+</Recipe> 
