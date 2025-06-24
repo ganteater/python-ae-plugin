@@ -1,6 +1,6 @@
 <Environment xmlns="http://ganteater.com/xml/configuration"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://ganteater.com/xml/configuration https://ganteater.com/xml/configuration/anteater-1.2.1.0.xsd">
+	xsi:schemaLocation="http://ganteater.com/xml/configuration https://ganteater.com/xml/configuration/anteater-1.2.1.6.xsd">
 
 	<Configuration name="Dev Environment">
 		<Var name="log_file" value="logfile" />
