@@ -12,7 +12,7 @@
 		<Recipes path="https://sourceforge.net/code-snapshots/svn/a/an/anteater/code/anteater-code-r709-trunk-anteater-cli-src-manual-test-ae-recipes-commands.zip" />
 	</Configuration>
 	
-	<Configuration name="Dev Environment">
+	<Configuration name="Python Commands">
 		<Var name="log_file" value="python-ae" />
 		<Logger rootLogger="DEBUG,LOGFILE,CONSOLE" Threshold="$var{system::log_level,DEBUG}"
 			ConversionPattern="%d{dd.MM.yyyy HH:mm:ss} %-6p %m %n"

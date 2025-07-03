@@ -1,4 +1,9 @@
 <Recipe name="Python">
-  <Extern class="Python" file="script.py" /> 
-  <Extern class="Python">print('Hello World 2!')</Extern> 
+	<Extern class="Python" file="script.py" /> 
+	<Extern class="Python">print('Hello World 2!')</Extern> 
+	<Var name="x">3</Var> 
+	<Extern class="Python">
+		<Run name="result">result = 10/$var{x}</Run> 
+		<Out name="result" /> 
+	</Extern> 
 </Recipe> 
