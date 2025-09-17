@@ -7,7 +7,7 @@
 ```xml
 <dependency>
     <groupId>com.ganteater</groupId>
-    <artifactId>atg-ae-plugin</artifactId>
+    <artifactId>python-ae-plugin</artifactId>
     <version>1.2.0</version>
 </dependency>
 ```
